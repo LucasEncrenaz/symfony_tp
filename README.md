@@ -5,3 +5,5 @@ CLI de Symfony permet d’interpréter ces recipes et d’installer directement 
 
 ## Relations entre les entités : 
 ![alt text](https://cdn.discordapp.com/attachments/675774899226279939/815878173866721300/unknown.png)
+
+## Expliquer ce qu'est le fichier .env

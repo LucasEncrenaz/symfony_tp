@@ -11,5 +11,9 @@ Au lieu de définir des variables d'environnement dans un shell ou un serveur We
 
 ## Expliquer pourquoi il faut changer le connecteur à la base de données
 Les identifiants peuvent varier en fonction de l'utilisateur/de la machine, c'est pourquoi il faut changer le connecteur à la base de données.
+
 ## Expliquer l'intérêt des migrations d'une base de données
 C'est comme du versioning de BDD, chaque migration créer un fichier version<timestamp> qui possède différentes requêtes pour modifier la BDD.
+
+## Qu'est-ce que EasyAdmin ?
+EasyAdmin est un créateur d'administration de Back-End pour des applications Sympfony

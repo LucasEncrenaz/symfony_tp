@@ -17,3 +17,6 @@ C'est comme du versioning de BDD, chaque migration créer un fichier version<tim
 
 ## Qu'est-ce que EasyAdmin ?
 EasyAdmin est un créateur d'administration de Back-End pour des applications Sympfony
+
+## Pourquoi doit-on implémenter des méthodes to string dans nos entités ?
+Pour pouvoir lire les valeurs qui sont dans des objets
